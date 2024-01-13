@@ -66,7 +66,7 @@ body {
     height: 125px;
     width: 125px;
     border: solid 2px black;
-    border-radius: 25px;
+    border-radius: 75px;
     margin-top: 25px;
 }
 
@@ -79,8 +79,17 @@ body {
 .cont{
     padding: 10px;
 }
-
 #port{
+    height: 45px;
+    width: 90%;
+    border-radius: 5px;
+    margin-top: 5px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    justify-items: center;
+    font-weight: 700;
+}
+#port1{
     height: 45px;
     width: 90%;
     border-radius: 5px;
@@ -88,6 +97,7 @@ body {
     background-color: #454545;
     color: white;
     justify-items: center;
+    font-weight: 700;
 }
 #fb{
     height: 45px;
@@ -96,6 +106,7 @@ body {
     margin-top: 5px;
     background-color: #4773ec;
     color: white;
+    font-weight: 700;
 }
 
 #fbpg{
@@ -105,6 +116,7 @@ body {
     margin-top: 5px;
     background-color: #4773ec;
     color: white;
+    font-weight: 700;
 }
 
 #insta{
@@ -112,8 +124,9 @@ body {
     width: 90%;
     border-radius: 5px;
     margin-top: 5px;
-    background-color: #be2bdb;
+    background-color: #f044e2;
     color: white;
+    font-weight: 700;
 }
 
 #twitt{
@@ -121,8 +134,9 @@ body {
     width: 90%;
     border-radius: 5px;
     margin-top: 5px;
-    background-color: #00acee;
+    background-color: #1d1d1d;
     color: white;
+    font-weight: 700;
 }
 
 #linked{
@@ -130,8 +144,9 @@ body {
     width: 90%;
     border-radius: 5px;
     margin-top: 5px;
-    background-color: #0b5e86;
+    background-color: #0b77ad;
     color: white;
+    font-weight: 700;
 }
 
 #yt{
@@ -141,6 +156,7 @@ body {
     margin-top: 5px;
     background-color: #d71e18;
     color: white;
+    font-weight: 700;
 }
 
 #Blog{
@@ -150,4 +166,5 @@ body {
     margin-top: 5px;
     background-color: #ffaa00;
     color: white;
+    font-weight: 700;
 }
